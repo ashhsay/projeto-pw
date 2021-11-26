@@ -1,0 +1,8 @@
+.Content {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    background-color:#1c1c1c;
+    color: #f7f32f; 
+    padding: 30px;
+}
